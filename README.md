@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:fervalinhos@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href="https://github.com/grv-software"><img src="https://img.shields.io/badge/GRV_Software-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Fervalinhos&style=for-the-badge&color=1F6FEB&label=VISITAS" />
 </p>
 
@@ -26,17 +25,30 @@ const matheus = {
 };
 ```
 
-## 🛠️ Tecnologias
+## 🚀 Tech Stack
 
+#### Frontend & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,react,postgres,mysql,git,github,linux,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
+#### Backend & APIs
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebird-F40F02?style=flat-square&logo=firebird&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=3FB950" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express" />
+  <br/>
+  <img src="https://img.shields.io/badge/Frappe_/_ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
+</p>
+
+#### Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <br/>
+  <img src="https://img.shields.io/badge/Firebird-F40F02?style=for-the-badge&logo=firebird&logoColor=white" />
+</p>
+
+#### DevOps & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode" />
 </p>
 
 ## 📊 Estatísticas
