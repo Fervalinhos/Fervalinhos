@@ -63,13 +63,10 @@ const matheus = {
   <img src="https://streak-stats.demolab.com?user=Fervalinhos&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
 </p>
 
-## 🐍 Contribuições
+## ⚔️ Boss Battle
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fervalinhos/Fervalinhos/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Fervalinhos/Fervalinhos/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Fervalinhos/Fervalinhos/output/boss-battle.svg" alt="Boss battle: cada commit dos últimos 12 meses causa dano no Bug Lord" />
 </p>
 
 ---
