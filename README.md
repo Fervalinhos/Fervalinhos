@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:fervalinhos@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="mailto:matheuscocco.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Fervalinhos&style=for-the-badge&color=1F6FEB&label=VISITAS" />
 </p>
 
@@ -15,10 +15,10 @@ const matheus = {
   empresa: "@grv-software",
   foco: ["Backend", "Integração de APIs", "Migração de dados entre ERPs"],
   stack: {
-    linguagens: ["Python", "JavaScript", "SQL"],
-    backend: ["Node.js", "Express", "Frappe / ERPNext"],
+    linguagens: ["Python", "JavaScript", "TypeScript", "SQL"],
+    backend: ["Node.js", "Express", "Prisma", "API REST", "Frappe / ERPNext"],
     frontend: ["React"],
-    bancos: ["PostgreSQL", "MySQL", "Firebird"],
+    bancos: ["PostgreSQL", "MySQL", "MariaDB", "SQL Server"],
   },
   aprendendo: "sempre algo novo",
   curiosidade: "prefiro SQL sem alias 😅",
@@ -29,13 +29,14 @@ const matheus = {
 
 #### Frontend & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
 </p>
 
 #### Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,prisma" />
   <br/>
+  <img src="https://img.shields.io/badge/API_REST-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Frappe_/_ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
 </p>
 
@@ -43,12 +44,13 @@ const matheus = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <br/>
-  <img src="https://img.shields.io/badge/Firebird-F40F02?style=for-the-badge&logo=firebird&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" />
 </p>
 
 #### DevOps & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode,figma" />
 </p>
 
 ## 📊 Estatísticas
