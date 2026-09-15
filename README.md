@@ -42,7 +42,8 @@ const matheus = {
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Métricas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fervalinhos&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fervalinhos&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
