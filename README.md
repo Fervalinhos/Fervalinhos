@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Node.js;Integra%C3%A7%C3%B5es+%2B+Migra%C3%A7%C3%A3o+de+Dados;%3E+while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
+  <img src="title.svg" alt="Olá, eu sou o Matheus" />
 </h1>
 
 <p align="center">
