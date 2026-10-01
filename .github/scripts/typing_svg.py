@@ -20,8 +20,9 @@ from xml.sax.saxutils import escape
 
 LINES = [
     "Olá, eu sou o Matheus 👋",
-    "Backend Developer | Python & Node.js",
-    "Integrações + Migração de Dados",
+    "Full Stack Developer | Python & Node.js",
+    "React | TypeScript | SQL",
+    "APIs REST | ERPs | Dados",
     "> while(alive) { code(); }",
 ]
 
